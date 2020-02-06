@@ -56,3 +56,4 @@ builds/**/images/*
 !.elasticbeanstalk/*.global.yml
 
 *.pdf
+/server/server
